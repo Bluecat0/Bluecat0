@@ -86,9 +86,9 @@ I enjoy combining programming logic, creativity and design to create useful, fun
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Bluecat0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bluecat0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bluecat0&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bluecat0&layout=compact&theme=tokyonight&hide_border=true" /> -->
 
 <br/>
 
